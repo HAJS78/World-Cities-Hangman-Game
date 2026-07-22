@@ -1,0 +1,10 @@
+paris
+tokyo
+cairo
+lima
+oslo
+kyoto
+perth
+dakar
+prague
+accra
