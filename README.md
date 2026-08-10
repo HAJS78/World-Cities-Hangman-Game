@@ -79,7 +79,7 @@ Main screen background: Sourced from free resources. If attribution is required,
 
 📖 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+See the LICENSE file for details.
 
 ## 📅 Timeline
 - Started: October 2024  
